@@ -1,47 +1,45 @@
 🛒 Amazon Clone Website
 
-A simple Amazon homepage clone built using HTML and CSS.
-This project is created for learning and practicing front-end development skills.
+  A simple Amazon homepage clone built using HTML and CSS.
+  This project is created for learning and practicing front-end development skills.
 
 📌 Project Overview
 
-This project is a static clone of the Amazon homepage.
-It replicates the layout, design, and basic structure of Amazon’s website for educational purposes.
+   This project is a static clone of the Amazon homepage.
+   It replicates the layout, design, and basic structure of Amazon’s website for educational purposes.
 
 🚀 Features
 
-Amazon-like Navigation Bar
+  Amazon-like Navigation Bar
 
-Search Bar Design
+  Search Bar Design
 
-Product Sections
+  Product Sections
 
-Hero Banner Section
+  Hero Banner Section
 
-Footer Section
-
-Responsive Layout (if you made it responsive)
+  Footer Section
 
 🛠️ Technologies Used
 
-HTML5
+  HTML5
 
-CSS3
+  CSS3
 
-VS Code
+  VS Code
 
-Git & GitHub
+  Git & GitHub
 
 🎯 Purpose of the Project
 
-This project helped me:
+  This project helped me:
 
-Improve HTML structure skills
+  Improve HTML structure skills
 
-Practice CSS styling
+  Practice CSS styling
 
-Understand website layouts
+  Understand website layouts
 
-Learn how to upload projects on GitHub
+  Learn how to upload projects on GitHub
 
 ⭐ If you like this project, give it a star!
